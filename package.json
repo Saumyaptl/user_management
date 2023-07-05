@@ -1,7 +1,7 @@
 {
   "name": "user_management",
   "version": "0.1.0",
-  "homepage": "https://saumyaptl.github.io/user_management",
+  "homepage": "https://Saumyaptl.github.io/user_management",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
